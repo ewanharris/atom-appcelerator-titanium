@@ -1,0 +1,4 @@
+contact_links:
+  - name: Ask a question
+    url: https://ti-slack.slack.com/messages/C0FTDDNDS
+    about: To keep the issue tracker clean, we request that general questions go to the titanium_editors channel in TiSlack
